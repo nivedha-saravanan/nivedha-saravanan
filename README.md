@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @nivedha-saravanan
 - 👀 I’m interested in entrepreneurship.
-- 🌱 I’m currently learning Information Tchnology
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Information Technology
+- 📫 Reach me through nivedhases@gmail.com 
 
 <!---
 nivedha-saravanan/nivedha-saravanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
